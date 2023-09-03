@@ -1,6 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeonghunCho&fontSize=70&animation=twinkling)
 
+
 <div align="center">
 
 ![76f0e121adcb75a935698ce86aafcc1c](https://github.com/zoseonghun/zoseonghun/assets/126743224/f36817c9-c44a-4a6e-b3f1-c95f94373187)
@@ -38,6 +39,7 @@
 <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white">
 
 <br><br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoseonghun&show_icons=true&theme=vision-friendly-dark)
 
