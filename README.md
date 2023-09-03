@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## :🛠: TECH STACK
+## :hammer: TECH STACK
 
 <img src="https://img.shields.io/badge/-Java-C2BEBE?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/-Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
