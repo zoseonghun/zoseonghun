@@ -10,6 +10,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seonghun&show_icons=true&theme=vision-friendly-dark)
 
+
+<img  width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer"/>
+
 <!--
 **zoseonghun/zoseonghun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
