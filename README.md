@@ -8,7 +8,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seonghun&show_icons=true&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoseonghun&show_icons=true&theme=vision-friendly-dark)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer)
