@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeonghunCho&fontSize=70&animation=twinkling)
 
-![giphy](https://github.com/zoseonghun/zoseonghun/assets/126743224/6b0b1217-753e-43c4-81e3-9a3d8d2dba9f)
+![giphy](https://github.com/zoseonghun/zoseonghun/assets/126743224/6b0b1217-753e-43c4-81e3-9a3d8d2dba9f =150x)
+
 
 
 <div align="center">
