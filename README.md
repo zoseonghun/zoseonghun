@@ -6,7 +6,7 @@
 ![76f0e121adcb75a935698ce86aafcc1c](https://github.com/zoseonghun/zoseonghun/assets/126743224/f36817c9-c44a-4a6e-b3f1-c95f94373187)
 
 
-## 🛠 TECH STACK 🛠
+<h3>📚 Technology Stack 📚</h3>
 
 <img src="https://img.shields.io/badge/-Java-C2BEBE?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/-Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
