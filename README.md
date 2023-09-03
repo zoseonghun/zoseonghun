@@ -1,8 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeonghunCho&fontSize=70&animation=twinkling)
 
-![giphy](https://github.com/zoseonghun/zoseonghun/blob/master/assets/126743224/6b0b1217-753e-43c4-81e3-9a3d8d2dba9f.gif?raw=true)
+![76f0e121adcb75a935698ce86aafcc1c](https://github.com/zoseonghun/zoseonghun/assets/126743224/f36817c9-c44a-4a6e-b3f1-c95f94373187)
 
+![004b048d896733fcda007ffd8c03ddcc](https://github.com/zoseonghun/zoseonghun/assets/126743224/4bc4903b-db5c-4e49-8670-382dadf6fa6f)
+
+![4b694f3b3f07caf9d42b67c01c7f235d](https://github.com/zoseonghun/zoseonghun/assets/126743224/6db680a2-df43-4a8c-9377-e56449cc878e)
 
 
 <div align="center">
