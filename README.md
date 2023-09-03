@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white">
 
-<br><br>
+<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoseonghun&show_icons=true&theme=vision-friendly-dark)
