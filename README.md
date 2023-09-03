@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=%20SeonghunCho&fontColor=auto&fontAlignX=45&fontAlignY=65&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeonghunCho&fontSize=70&animation=twinkling)
 
 <div align="center">
 
@@ -43,8 +43,6 @@
 
 </div>
 
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
 
 <!--
 **zoseonghun/zoseonghun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
