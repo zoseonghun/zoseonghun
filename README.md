@@ -40,9 +40,6 @@
 
 <br><br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoseonghun&show_icons=true&theme=vision-friendly-dark)
-
 </div>
 
 
