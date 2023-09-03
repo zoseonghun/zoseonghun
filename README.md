@@ -1,10 +1,5 @@
 
-
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=%20SeonghunCho&fontColor=auto&fontAlignX=45&fontAlignY=65&fontSize=70)
-
-
-
 
 <div align="center">
 
@@ -44,11 +39,10 @@
 
 <br><br>
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoseonghun&show_icons=true&theme=vision-friendly-dark)
 
 </div>
+
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
 
