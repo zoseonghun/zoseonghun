@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeonghunCho&fontSize=70&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=170&section=header&text=%20SeonghunCho&fontColor=auto&fontAlignX=45&fontAlignY=65&fontSize=100)
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=%20SeonghunCho&fontColor=auto&fontAlignX=45&fontAlignY=65&fontSize=70)
 
 
 
