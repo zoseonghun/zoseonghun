@@ -1,8 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeonghunCho&fontSize=70&animation=twinkling)
 
-## :books: TECH STACK
 
+<div align="center">
+
+## :books: TECH STACK
 
 <img src="https://img.shields.io/badge/-Java-C2BEBE?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/-Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
@@ -34,6 +36,8 @@
 <img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white">
 
 <br><br>
+
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoseonghun&show_icons=true&theme=vision-friendly-dark)
 
