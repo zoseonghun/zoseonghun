@@ -4,7 +4,7 @@
 
 <div align="center">
 
-## :books: TECH STACK
+## :🛠: TECH STACK
 
 <img src="https://img.shields.io/badge/-Java-C2BEBE?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/-Html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">
@@ -37,10 +37,11 @@
 
 <br><br>
 
-</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoseonghun&show_icons=true&theme=vision-friendly-dark)
 
+</div>
 
 <!--
 **zoseonghun/zoseonghun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
